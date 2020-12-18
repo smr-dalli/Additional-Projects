@@ -1,2 +1,2 @@
-# Day_2
- Pair Programming
+Self intrest projects
+
